@@ -4,8 +4,13 @@
 	<classpathentry kind="src" output="test-classes" path="test"/>
 	<classpathentry kind="con" path="com.gwtplugins.gwt.eclipse.core.GWT_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/apache-tomcat-8.5.37/lib/servlet-api.jar"/>
-	<classpathentry kind="lib" path="C:/apache-tomcat-8.5.37/lib/websocket-api.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Downloads/apache-tomcat-8.5.37/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Downloads/apache-tomcat-8.5.37/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="/users/dale/commons-fileupload-1.4-bin/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Downloads/postgis.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Downloads/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Downloads/org.springframework.beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Downloads/postgis-jdbc-2.1.0SVN.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Desktop/DBToolkit/lib/postgresql-42.2.4.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
