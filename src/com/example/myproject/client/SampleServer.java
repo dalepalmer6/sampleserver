@@ -43,11 +43,10 @@ public class SampleServer implements EntryPoint {
 	 */
 	
 	private void getInfoFromServer() {
-		AsyncCallback<List<String>> callback = new AsyncCallback<List<String>>() {
-			public void onSuccess(List<String> fields) {
+		AsyncCallback<String[]> callback = new AsyncCallback<String[]>() {
+			public void onSuccess(String[] fields) {
 				//this is where the magic happens
 				receivedFields = fields;
-				System.out.println(fields);
 			}
 			@Override
 			public void onFailure(Throwable caught) {
@@ -61,24 +60,19 @@ public class SampleServer implements EntryPoint {
 	public VerticalPanel createTable() {
 		VerticalPanel p = new VerticalPanel();
 		for (int i = 0; i < receivedFields.length; i+=2) {
-			createRow(receivedFields.[i],receivedFields[i+1]);
+			p.add(createRow(receivedFields[i],receivedFields[i+1]));
 		}
 		return p;
 	}
 	
-	public VerticalPanel createRow(String label, String text) {
-		VerticalPanel row = new VerticalPanel();
-		HorizontalPanel l = new HorizontalPanel();
-		HorizontalPanel t = new HorizontalPanel();
+	public HorizontalPanel createRow(String label, String text) {
+		HorizontalPanel r = new HorizontalPanel();
 		Label labelElement = new Label(label);
 		TextBox textBoxElement = new TextBox();
 		textBoxElement.setText(text);
-		l.add(labelElement);
-		t.add(textBoxElement);
-		row.add(l);
-		row.add(t);
-		
-		return row;
+		r.add(labelElement);
+		r.add(textBoxElement);
+		return r;
 	}
 	
 	public void onModuleLoad() {
@@ -112,16 +106,11 @@ public class SampleServer implements EntryPoint {
 			      }
 			    });
 	    
-	    getInfoFromServer();
 	    
 	    panel.add(new Button("Load Data From a Database:", new ClickHandler() {
 			  @Override
 		      public void onClick(ClickEvent event) {
-				  	String msg = "";
-				  	for (int i = 0; i < receivedFields.size(); i++) {
-				  		msg += receivedFields.get(i) + "," + receivedFields.get(i+1);
-				  	}
-				  	Window.alert(msg);
+				  	getInfoFromServer();
 				  	panel3.clear();
 				  	VerticalPanel table = createTable();
 				  	panel3.add(table);
