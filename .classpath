@@ -7,10 +7,13 @@
 	<classpathentry kind="lib" path="/users/dale/Downloads/apache-tomcat-8.5.37/lib/servlet-api.jar"/>
 	<classpathentry kind="lib" path="/users/dale/Downloads/apache-tomcat-8.5.37/lib/websocket-api.jar"/>
 	<classpathentry kind="lib" path="/users/dale/commons-fileupload-1.4-bin/commons-fileupload-1.4.jar"/>
-	<classpathentry kind="lib" path="/users/dale/Downloads/postgis.jar"/>
-	<classpathentry kind="lib" path="/users/dale/Downloads/ojdbc7.jar"/>
-	<classpathentry kind="lib" path="/users/dale/Downloads/org.springframework.beans-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/users/dale/Downloads/postgis-jdbc-2.1.0SVN.jar"/>
 	<classpathentry kind="lib" path="/users/dale/Desktop/DBToolkit/lib/postgresql-42.2.4.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Desktop/csv_to_db/orai18n.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Desktop/csv_to_db/xdb6.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Desktop/csv_to_db/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Desktop/csv_to_db/postgis-jdbc-2.1.0SVN.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Desktop/csv_to_db/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Desktop/csv_to_db/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="/users/dale/Desktop/csv_to_db/sqljdbc41.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>

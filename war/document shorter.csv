@@ -1,0 +1,488 @@
+Document #,Version ,Date,Title or Type of Document,Author,Reviewers,Hardcopy Location,Softcopy Format/Location
+95077-001,1,23-Sep-13,Procurement Opportunity Delivery System (PODS) - User’s Guide,LL,,,\\vault\cslt\products\pods\Help_Documentation\doc.book
+95077-002,1,05-May-14,Procurement Opportunity Delivery System (PODS) - Daily Tasks Manual,MH,,,cslt\products\pods\Daily_Tasks_Manual\PODS Task Manual.docx
+,,,,,,,
+96002-001,1,09-Apr-96,Interrogate and Respond Device (IRD) - Technical Proposal,PTM/RG,,96002 File,/cslt/docs/1996/96002/proposal/technical/body.bk
+96002-002,1,09-Apr-96,Interrogate and Respond Device (IRD) - Cost Proposal,PTM/RG,,96002 File,/cslt/docs/1996/96002/proposal/cost/body.book
+96002-002,2,14-Apr-96,Interrogate and Respond Device (IRD) - Cost Proposal,PTM/RG,,96002 File,/cslt/docs/1996/96002/proposal/cost/body.book
+96002-003,1,19-Apr-96,Interrogate and Respond Device (IRD) - System Design Manual,PTM/RG,,96002 File,/cslt/docs/1996/96002/sdm/body.book
+96002-003,2,26-Apr-96,Interrogate and Respond Device (IRD) - System Design Manual,PTM/RG,,96002 File,/cslt/docs/1996/96002/sdm/body.book
+96002-003,3,17-May-96,Interrogate and Respond Device (IRD) - System Design Manual,PTM/RG,,96002 File,/cslt/docs/1996/96002/sdm/body.book
+96002-004,1,17-May-96,Letter to MaryAnn Long re: Contract Terms & Conditions,PTM,,96002 File,/cslt/docs/1996/96002/letters/Long_M_96-05-17.doc
+96002-005,1,27-Jun-96,Letter to MaryAnn Long re: Additional Labour Costs,PTM,,96002 File,/cslt/docs/1996/96002/letters/Long_M_96-06-27.doc
+,,,,,,,
+96005-001,1,20-Feb-96,Ice Management Services for HMDC - Expression of Interest,WNE,,96005 File,/cslt/docs/1996/96005/expression/96005exp.bk
+96005-002,1,16-Aug-96,Ice Management Services for HMDC - Prequalification Questionnaire,WNE/PTM/BOR,,96005 File,/cslt/docs/1996/96005/pre-qual/prequal.bk
+96005-003,1,14-Jan-97,HMDC Network Expansion Proposal,LB,,96005 File,/cslt/docs/1996/96005/network.doc
+96005-004,1,30-Jan-97,Letter to Laurie Davidson Regarding CIDAS issues,BOR,,96005 File,/cslt/docs/1996/96005/letters/start_up.doc
+96005-005,1,03-Feb-97,Letter to John McClintock regarding Connectivity Issues,RWT,,96005 File,/cslt/docs/1996/96005/letters/96005-005.doc
+96005-006,1,28-Feb-97,Ice Management Plan (Compusult Sections),PTM/WNE,,96005 File,/cslt/docs/1996/96005/imp/imp.doc
+96005-007,1,11-Feb-97,Letter to Laurie Davidson regarding contractual issues,PTM,,96005 File,/cslt/docs/1996/96005/letters/96005-007.doc
+96005-008,1,26-Feb-97,Letter to John McClintock regarding people and rates,BOR,,96005 File,/cslt/docs/1996/96005/letters/rates.doc
+96005-009,1,26-Feb-97,Letter to John McClintock regarding proposed ice products,BOR,,96005 File,/cslt/docs/1996/96005/letters/ice_prod.doc
+96005-010,1,28-Mar-97,HMDC Environmental Data Management - System Requirements Specification,BOR,,96005 File,/cslt/docs/1996/96005/srs/srs.bk
+96005-011,1,30-Apr-97,ICE 101: Ice ManagementProcedures for Support Vessel Personnel,PTM/WNE,,Wayne’s Office,/cslt/docs/1996/96005/training/cover.doc
+96005-012,1,30-Apr-97,ICE 106: Ice ManagementProcedures for Ice Specialists,PTM/WNE,,Wayne’s Office,/cslt/docs/1996/96005/training/cover.doc
+96005-013,1,20-May-97,Platform Ice Management System (PIMS) - User’s Manual,WNE/RJ/BOR,,Wayne’s Office,/cslt/docs/cidas/manuals/windows_nt/pims_um/doc.bk
+96005-013,2,23-Jan-98,Platform Ice Management System (PIMS) - User’s Manual,DY/WNE/RJ/BOR,,Wayne’s Office,/cslt/docs/cidas/manuals/windows_nt/pims_um/doc.bk
+96005-013,2.1,05-Feb-98,Platform Ice Management System (PIMS) - User’s Manual,DY/WNE/RJ/BOR,,Wayne’s Office,/cslt/docs/cidas/manuals/windows_nt/pims_um/doc.bk
+96005-013,3,13-Mar-00,Platform Ice Management System (PIMS) - User’s Manual,AS/WNE/,,Wayne’s Office,/cslt/docs/cidas/manuals/windows_nt/pims_um/doc.bk
+96005-014,1,20-May-97,ICE 102: Ice ManagementProcedures for Helicopter Personnel,WNE,,Wayne’s Office,/cslt/docs/1996/96005/training/heli_cover.doc
+96005-015,1,16-Oct-97,Quote for performing firewall changes requested by HMDC,BOR,,96005 File,/cslt/docs/1996/96005/letters/firewall.doc
+96005-016,1,05-Nov-97,Quote for implementing product definitions (CPs 017 & 018) requested by Seaborne.,WNE,,96005 File,/cslt/docs/1996/96005/letters/prod_def_quote.doc
+96005-017,1,04-Feb-98,Letter to John McClintock regarding status of requested changes.,BOR,,96005 File,/cslt/docs/1996/96005/letters/pims_changes.doc
+96005-018,1,11-Feb-99,"Quotation for implementing the changes specified in e-mail from John McClintock dated February 8, 1999",WNE/LB,,96005 File,/cslt/docs/1996/96005/letters/96005-018.doc
+96005-019,1,16-Feb-99,Letter to Dave Robbins re: CIDAS Y2K compliance.,BOR,,96005 File,/cslt/docs/1996/96005/letters/96005-019.doc
+96005-020,1,14-May-99,"Revised quotation for implementing the changes specified in e-mail from John McClintock dated February 8, 1999",WNE/BOR,,96005 File,/cslt/docs/1996/96005/letters/96005-020.doc
+96005-021,1,04-Nov-99,"Quotation for implementing Y2K upgrades, e-mail communication of wx reports, switchable data focus. and end-to-end testing of new configuration plus Y2K testing.",WNE,,96005 File,/cslt/docs/1996/96005/letters/96005-021.doc
+96005-022,1,12-Feb-01,Letter to John McClintock regarding CIDAS network and availability issues,WNE/BOR,,96005 File,/cslt/docs/1996/96005/letters/96005-022.doc
+96005-023,1,22-Aug-01,letter itemizing return of equipment for the Cidas project,VFC,,96005 file,/cslt/docs/1996/96005/letters
+96007-001,1,20-Feb-96,"Department of Industry, Trade and Technology Client Information System - Proposal",PTM,,96007 File,/cslt/docs/1996/96007/proposal/body.book
+96007-002,1,29-Mar-96,"Department of Industry, Trade and Technology Client Information System - Workshop #1",PTM,,96007 File,/cslt/docs/1996/96007/workshops/body.bookworkshop1.doc
+96007-003,1,01-Apr-96,"Department of Industry, Trade and Technology Client Information System - Workshop #2",PTM,,96007 File,/cslt/docs/1996/96007/workshops/body.bookworkshop2.doc
+96007-004,1,30-Apr-96,"Department of Industry, Trade and Technology Client Information System - Progress Report",PTM,,96007 File,/cslt/docs/1996/96007/reports/body.book
+96007-005,1,18-May-96,"Department of Industry, Trade and Technology Client Information System - System Design Manual",PTM/CP,,96007 File,/cslt/docs/1996/96007/sdm/body.book
+96007-006,1,01-May-96,"Department of Industry, Trade and Technology Client Information System - Data Consolidation Manual",CP/DSY,,96007 File,/cslt/docs/1996/96007/dmd/body.book
+96007-007,1,21-Aug-96,Letter to Rosaling Marsh re: Data Modelling Tool,PTM,,96007 File,/cslt/docs/1996/96007/letters/Marsh_R_96-08-21.doc
+,,,,,,,
+96008-001,1,26-Feb-96,Letter requesting information on the BIDS tendering system,WNE for PTM,,96008 File,/cslt/docs/1996/96008/BIDS_96-02-26.doc
+,,,,,,,
+96010-001,1,28-Feb-96,Proposal to DFO to Enhance BIO ChartNet Node,BOR,,96010 File,/cslt/docs/1996/96010/proposal
+96010-002,1,12-Aug-96,Task list for BIO ChartNet node,LB,,96010 File,/cslt/docs/1996/96010/0_task_list.doc
+96010-003,1,05-Sep-96,Project Estimates for Completion of BIO Chartnet Node Enhancements.,LB,,96010 File,/cslt/docs/1996/96010/memo-96010-003.doc
+,,,,,,,
+96027-001,1,07-May-96,Technical Proposal to Industry Canada for Strategis Web Site Development,PTM,,96027 File,/cslt/docs/1996/96027/proposal/technical/body.bk
+96027-002,1,07-May-96,Cost Proposal to Industry Canada for Strategis Web Site Development,PTM/BOR,,96027 File,/cslt/docs/1996/96027/proposal/cost/body.book
+96027-003,1,18-Dec-96,Proposal to Industry Canada for bbdtt,PTM/BOR,,96027 File,/cslt/docs/1996/96027/bbdtt/proposal/
+96027-004,1,23-Dec-96,Frame Version of Strategis Style guide (Provided as text file only),LB,,96027 File,/cslt/docs/1996/96027/style_guide/0guide.bk
+96027-005,1,03-Jan-97,Letter to Pat Oliver for clarifications to proposal,BOR,,96027 File,/cslt/docs/1996/96027/letters/BBDTT_prop.doc
+96027-006,1,31-Jan-97,BBDTT Project Plan (new format).,WNE/BOR,,96027 File,/cslt/docs/1996/96027/project_plan/body.bk
+96027-007,1,31-Jan-97,BBDTT QA Plan (new format).,WNE,,96027 File,/cslt/docs/1996/96027/qa_plan/body.bk
+96027-008,1,07-Feb-97,BBDTT Requirements Traceability Matrix (RTM),WNE,,96027 File,/cslt/docs/1996/96027/bbdtt/rtm/rtm.doc
+96027-009,1,21-Mar-97,BBDTT Acceptance Test Plan (ATP),WNE,,96027 File,/cslt/docs/1996/96027/bbdtt/atp/0atp.bk
+96027-010,1,11-Apr-97,Letter to Diane Biage-Dumoulin to add Melissa to the BBDTT contract personnel list.,WNE,,96027 File,/cslt/docs/1996/96027/letters/melissa_ltr.doc
+,,,,,,,
+96034-001,1,14-May-96,Technical Proposal to DND for Bar Coding Equipment,PTM,,96034 File,/cslt/docs/1996/96034/proposal/technical/body.bk
+96034-002,1,14-May-96,Financial Proposal to DND for Bar Coding Equipment,PTM,,96034 File,/cslt/docs/1996/96034/proposal/cost/body.book
+96034-003,1,22-May-96,Letter to C. Beaudoin - Response to Questions on Proposal,PTM,,96034 File,/cslt/docs/1996/96034/letters/96034-003.doc
+96034-004,1,20-Jun-96,Letter to MWO Gratton - Shipment of Evaluation Unit,PTM,,96034 File,/cslt/docs/1996/96034/letters/96034-004.doc
+96034-005,1,20-Jun-96,Letter to C. Beaudoin - Shipment of Evaluation Unit,PTM,,96034 File,/cslt/docs/1996/96034/letters/96034-005.doc
+96034-006,1,09-Jul-96,Letter to N. Guarna - Availability of Epson Products for DND,PTM,,96034 File,/cslt/docs/1996/96034/letters/96034-006.doc
+96034-007,1,11-Jul-96,Letter to C. Beaudoin - Confirmation of Delivery Timeframe,PTM,,96034 File,/cslt/docs/1996/96034/letters/96034-007.doc
+96034-008,1,20-Aug-96,Letter to S. Smith - Request for Extension to Delivery Date,PTM,,96034 File,/cslt/docs/1996/96034/letters/96034-008.doc
+96034-009,1,20-Aug-96,Letter to T. Nishiuchi- Request for Clarification re: Labels,PTM,,96034 File,/cslt/docs/1996/96034/letters/96034-009.doc
+96034-010,1,23-Sep-96,Letter to T. Nishiuchi - Request for CF 1280 Forms,PTM,,96034 File,/cslt/docs/1996/96034/letters/96034-010.doc
+96034-011,1,08-Oct-97,Letter to T. Nishiuchi - RE: Schedule for training & programming services plus Warranty Renewal,PTM,,96034 File,/cslt/docs/1996/96034/letters/96034-011.doc
+,,,,,,,
+96035-001,1,03-Jun-96,Tourism Insert on Compusult for TAS,PTM/MT,,96035 File,/mjt/tourism/tas.doc (word)
+,,,,,,,
+96038-001,1,28-May-96,Ice Chart Digitizing Services - Tecnical Offer (PWGSC Solicitation No. KM149-5-C022/A),PTM,,96038 File,/cslt/docs/1996/96038/proposal/technical/body.book
+96038-002,1,28-May-96,Ice Chart Digitizing Services - Peoposed Basis of Payment(PWGSC Solicitation No. KM149-5-C022/A),PTM,,96038 File,/cslt/docs/1996/96038/proposal/cost/body.book
+,,,,,,,
+96042-001,1,04-Jun-96,Letter requesting clearification of section 7.1 and 5.3 of RFP for the National Electronic Tendering Service (NETS),RWT,,Marketing,/cslt/docs/1996/96042/letters/96042-001.doc
+96042-002,1,05-Jul-96,Letter & company/project profile to Sayeed Reta from Canada Post for document handling proposal,MT,,Marketing,/cslt/docs/1996/96042/letters/96042-002.doc
+96042-003,1,09-Aug-96,Technical Proposal,,,Marketing,/cslt/docs/1996/96042/letters/96042-002.doc
+96042-004,1,09-Aug-96,Financial Proposal,,,,
+96042-005,1,09-Aug-96,National Electronic Tendering Service (NETS)- Project Plan,WNE,,,/cslt/docs/1996/96042/pplan/0pplan.bk
+96042-006,1,19-Dec-96,Letter to Dave Smith of Cebra Inc.,PTM,,96042 File,/cslt/docs/1996/96042/letters/96042-006.doc
+96042-007,1,10-Apr-01,Letter to ???,PTM/WNE,,96042 File,/cslt/docs/1996/96042/letters/96042-003.doc
+,,,,,,,
+96049-001,1,07-Mar-97,DigiCite Phase II Proposal,PTM,,96049 File,/cslt/docs/94069/proposal/project1/body.bk
+96049-002,1,07-Mar-97,WebCite and NaviTELL Proposal,PTM,,96049 File,/cslt/docs/94069/proposal/project2/body.bk
+96049-003,1,27-Mar-97,DigiCite Phase II Final Report,PTM,,96049 File,/cslt/docs/1996/96049/proposal/project1/report/body.book
+96049-004,1,18-Jul-97,Letter to George Streb re: Aug. 1/97 Meeting agenda,PTM,,96049 File,/cslt/docs/1996/96049/letters/Streb_G_97-07-18.doc
+96049-005,1,10-Dec-97,Letter to Dan Harn: Re: Materials/info he requested,PTM,,96049 File,/cslt/docs/1996/96049/letters/Harn_D_97-12-10.doc
+96049-006,1,19-Dec-97,Progress Report,PTM,,96049 File,/cslt/docs/1996/96049/webcite/market_analysis/body.bk
+96049-007,1,19-Dec-97,Market Analysis,PTM,,96049 File,/cslt/docs/1996/96049/webcite/progress_report/body.bk
+96049-008,1,13-May-97,WebCite System Design Document (SDM),PTM/JP/CP,,96049 File,/cslt/docs/1996/96049/webcite/sdm/body.book
+,,,,,,,
+96056-002,1,16-Oct-96,Letter to Ed Lewis for the Upgrade of CIDAS,BOR,,,/cslt/docs/1996/96056/letters/Lewis_E_96-10-16.doc
+96056-003,1,11-Dec-96,CHS CIDAS WWW Prototype Screens (NDI),CIC,,96056 SDF,/cslt/docs/1996/96056/wwwproto01/wwwproto01.doc
+96056-004,1,12-Dec-96,CHS CIDAS WWW Prototype Screens (CSLT),CIC,,96056 SDF,/cslt/docs/1996/96056/wwwproto02/wwwproto02.doc
+,,,,,,,
+96060-001,1,24-Apr-98,Automated Message Generator (AMG) - White Paper,PTM/BG,,96060 File,/cslt/docs/1996/96060/proposal1/body.bk
+96060-002,1,27-Apr-98,Covering Letter to MaryAnn Long (PGSC),PTM,,96060 File,/cslt/docs/letters/Long_M_98-04-27.doc
+,,,,,,,
+96068-001,1,31-Jul-96,Proposal for Health Care Needs Analysis,BOR,,96068 File,/cslt/docs/1996/96068/prop.doc
+,,,,,,,
+96072-001,1,13-Sep-96,Ammunition Procurement Planning System - Technical Proposal,PTM,,96072 File,/cslt/docs/1996/96072/proposal/technical/body.bk
+96072-002,1,13-Sep-96,Ammunition Procurement Planning System - Cost Proposal,PTM,,96072 File,/cslt/docs/1996/96072/proposal/cost/body.bk
+96072-003,1,07-Jan-97,Ammunition Procurement Planning System - SRS,PTM,,96072 File,/cslt/docs/1996/96072/srs/body.book
+96072-004,1,07-Jan-97,Ammunition Procurement Planning System - SDM,PTM/DVSY,,96072 File,/cslt/docs/1996/96072/sdm/body.book
+96072-007,1,20-Jan-97,Ammunition Procurement Planning System - Database conversion letter.,DY,,96072 Files,/cslt/docs/1996/96072/Letters/96072-007.doc
+96072-008,1,24-Jan-97,Ammunition Procurement Planning System- question document,DM/RW,,96072 Files,wordpad doc. on alpha/apps/mystery.doc
+96072-009,1,24-Jan-97,Ammunition Procurement Planning System - question 2 document,DM/RW,,96072 Files,wordpad doc. on alpha/apps/mystery2.doc
+96072-010,1,24-Jan-97,Ammunition Procurement Planning System- data sructure,DY,,96072 Files,wordpad doc. on alpha/apps/data_structure.txt
+96072-011,1,24-Jan-97,Ammunition Procurement Planning System - revised data structure,DM/RW,,96072 Files,wordpad doc. on alpha/apps/data_structure2.txt
+96072-012,1,24-Jan-97,Ammunition Procurement Planning System - revised data structure,DM/RW,,96072 Files,wordpad doc. on alpha/apps/data_structure3.txt
+96072-013,1,28-Jan-97,Ammunition Procurement Planning System - Database Conversion from Access 2.0 to Access 7.0,DY,,96072 Files,/cslt/docs/1996/96072/Letters/96072-013.doc
+96072-014,1,11-Feb-97,Fax to Capt. John Harris Regarding Forms and Reports,DM/RW,,96072 Files,wordpad doc. on alpha/apps/feb11.doc
+96072-015,1,12-Feb-97,Fax to Capt Harris regarding Passwords,DM/RW,,96072 Files,Alpha/apps/documnets/feb12.doc
+96072-016,1,24-Feb-97,Ammunition Procurement Planning System - Implementation of EOQ Module.,DY,,96072 Files,/cslt/docs/1996/96072/Letters/96072-016.doc
+96072-017,1,06-Mar-97,"Ammunition Procurement Planning System - Implementation of Changes from Feb 26, 1997 Meeting.",DY,,96072 Files,/cslt/docs/1996/96072/Letters/96072-017.doc
+96072-018,1,18-Sep-97,Ammunition Material Management System (AMMS)- User’s Manual,JR/DM/WNE,,96072 Files,/cslt/docs/1996/96072/users_manual
+96072-019,1,22-Sep-97,Ammunition Material Management System (AMMS)- Acceptance Test Plan,???,,96072 Files,/cslt/docs/1996/96072/atp/0atp.bk
+96072-020,1,12-May-97,Letter to R. Klimowicz in response to his fax of May 7/97,PTM,,96072 File,/cslt/docs/1996/96072/Letters/96072-020.doc
+96072-021,1,19-Jun-97,Ammunition Material Management System (AMMS)- Fax to Capt John Harris regarding AMMS Schedule.,DY,,96072 Files,/cslt/docs/1996/96072/Letters/96072-021.doc
+96072-022,1,02-Jul-97,Ammunition Material Management System (AMMS)- Fax to Capt John Harris regarding AMMS Revised Schedule.,DY,,96072 Files,/cslt/docs/1996/96072/Letters/96072-022.doc
+96072-023,1,29-Aug-97,Ammunition Material Management System (AMMS)- Fax to Capt John Harris inquiring about Installation and Training Schedule.,DY,,96072 Files,/cslt/docs/1996/96072/Letters/96072-023.doc
+96072-024,1,31-Mar-97,Ammunition Material Management System (AMMS)- Requirements Traceability Matrix,WNE,,96072 Files,/cslt/docs/1996/96072/rtm/rtm.doc
+96072-025,1,27-Jan-98,Ammunition Material Management System (AMMS)- Reply to Capt John Harris letter of remaiging issues.,DY,,96072 Files,/cslt/docs/1996/96072/Letters/96072-025.doc
+96072-026,1,27-Jan-98,Ammunition Material Management System (AMMS)- PWGSC File No. W8480-5-AF07/A letter to Ms. Brenda Whitten,PM,,96072 Files,/cslt/docs/1996/96072/Letters/96072-026.doc
+96072-027,1,06-Oct-98,Ammunition Material Management System (AMMS)- Reply to Capt John Harris phone conversation regarding upgrade to Access 97.,DY,,96072 Files,/cslt/docs/1996/96072/Letters/96072-027.doc
+,,,,,,,
+96078-001,1,29-Aug-96,Letter to Awtar Regarding Support Contract for CIDAS 96/97,BOR,,96078 File,/cslt/docs/1996/96078/letters/Awtar0829.doc
+96078-002,1,29-Aug-96,Quotation for System Management and Maintenance Manual (SMMM).,BOR,,96078 File,/cslt/docs/1996/96078/quotes/smmm.doc
+96078-003,1,03-Sep-96,Quotation to Awtar/Vincent for work related to AR 9819.,WNE/LB,,96078 File,/cslt/docs/1996/96078/quotes/96078-003.doc
+96078-004,1,09-Sep-96,Letter 2 to Awtar Regarding Support Contract for CIDAS 96/97,BOR,,96078 File,/cslt/docs/1996/96078/letters/Awtar0909.doc
+96078-005,1,17-Sep-96,Quotation for installation covered by RSM 038,LB (WNE),,96078 File,/cslt/docs/96078/quotes/96078-005.doc
+96078-006,1,19-Sep-96,Quotation to Angela Franklin @ ICEC for work to be performed in August (Historical),WNE,,96078 File,/cslt/docs/1996/96078/quotes/96078-006.doc
+96078-007,1,20-Sep-96,Quotation to Angela Franklin @ ICEC for work to be performed re: AR 8681.,WNE,,96078 File,/cslt/docs/1996/96078/quotes/96078-007.doc
+96078-008,1,25-Sep-96,Response to Vincent @ ICEC re: his memo of 25 Sep 96,WNE,,96078 File,/cslt/docs/1996/96078/memos/96078-008.doc
+96078-009,1,09-Sep-96,Memo containing questions concerning Quotation Document 95052-014.,DSY,,96078 File,/cslt/docs/1996/96078/memos/96078-003.doc
+96078-010,1,03-Oct-96,Revised (reduced) quotation to Angela Franklin for work detailed in AR 9819,WNE,,96078 File,/cslt/docs/1996/96078/quotes/96078-010.doc
+96078-011,1,13-Jan-97,Quotation 96078-008 for the preparation of a development/test CIDAS system at CIS.,LB,,96078 File,/cslt/docs/1996/96078/quotes/96078-011.doc
+96078-012,1,28-Feb-97,Quotation to investigate and fix the slow response of system deliveries.,LB/WNE,,96078 File,/cslt/docs/1996/96078/quotes/96078-012.doc
+96078-013,1,13-Mar-97,Quotation 96078-010 for the preparation of a development/test CIDAS system at CIS. (Related to Quotation 96078-008.),LB,,96078 File,/cslt/docs/1996/96078/quotes/96078-011.doc
+,,,,,,,
+96080-001,1,12-Sep-96,ATIS Message Generation Prototype Development - Technical Proposal,PTM,,96080 File,/cslt/docs/1996/96080/proposal/technical/body.bk
+96080-002,1,12-Sep-96,ATIS Message Generation Prototype Development - Price and Method of Payment Proposal,PTM,,96080 File,/cslt/docs/1996/96080/proposal/cost/body.bk
+96080-003,1,28-Nov-96,ATIS Message Generation Prototype Development - System Requirements Specification,CDP,,96080 File,/cslt/docs/1996/96080/srs_docs/body.book
+96080-003,2,16-Dec-96,ATIS Message Generation Prototype Development - System Requirements Specification,CDP/PTM,,96080 File,/cslt/docs/1996/96080/srs_docs/body.book
+96080-003,3,22-Jan-97,ATIS Message Generation Prototype Development - System Requirements Specification,PTM,,96080 File,/cslt/docs/1996/96080/srs_docs/body.book
+96080-004,1,01-Dec-96,ATIS Message Generation Prototype Development - System Design Manual,CDP,,96080 File,/cslt/docs/1996/96080/sdm_docs/body.book
+96080-004,2,22-Jan-97,ATIS Message Generation Prototype Development - System Design Manual,BG,,96080 File,/cslt/docs/1996/96080/sdm_docs/body.book
+96080-005,1,22-Apr-97,ATIS Message Generation Prototype April 17th Demonstration - Meeting Notes (Letter to Valdur),DY,,96080 File,/cslt/docs/1996/96080/Letters/96080-005.doc
+96080-006,1,14-May-97,ATIS Message Generation Prototype Development - Requirements Traceability Matrix,WNE,,96080 File,/cslt/docs/1996/96080/rtm/rtm.doc
+96080-007,1,14-May-97,ATIS Message Generation Prototype Development - Acceptance Test Plan,WNE/BG,,96080 File,/cslt/docs/1996/96080/atp/0atp.bk
+96080-008,1,18-Jun-97,,,,,
+27-Jun-97,ATIS Message Generation Prototype Development - Final Report,BG/PTM,,96080 File,/cslt/docs/1996/96080/final-report/freport.book,,
+96080-009,1,23-Jun-97,Letter to V. Pille re: Final Project Deliverables,PTM,,96080 File,/cslt/docs/1996/96080/Letters/96080-009.doc
+,,,,,,,
+96082-001,1,16-Sep-96,Application Letter for Legacy Systems,BOR,,96082 File,/cslt/docs/1996/96082/application.doc
+,,,,,,,
+96084-001,1,18-Sep-96,Aquatic Chemistry & Biology Information System origanal RFP,RWT,,96084 File,/cslt/docs/1996/96084/ACBIS_rfp.pdf
+,,,,,,,
+96094-001,1,15-Oct-96,Quoatation letter for HRDC St. John’s (Internet Access),RWT,,96094 File,/cslt/docs/1996/96094/proposal.doc
+,,,,,,,
+96106-001,1,30-Oct-96,CIDAS Supplier Interface to CEONet - Proposal,BOR,,96106 File,/cslt/docs/1996/96106/proposal/rev_1/report.bk
+96106-001,2,05-Feb-97,FDGC and Z39.50 Compliance for CIDAS Systems (FZCCS) - Proposal,BOR,,96106 File,/cslt/docs/1996/96106/proposal/rev_2/proposal.bk
+96106-002,1,25-Feb-97,FDGC and Z39.50 Compliance for CIDAS Systems (FZCCS) - Project Plan,WNE,,96106 File,/cslt/docs/1996/96106/pplan/pplan.bk
+96106-003,1,25-Feb-97,FDGC and Z39.50 Compliance for CIDAS Systems (FZCCS) - QA Plan,WNE,,96106 File,/cslt/docs/1996/96106qaplan/qaplan.bk
+96106-004,1,21-Mar-97,FDGC and Z39.50 Compliance for CIDAS Systems (FZCCS) - System Requirements Specification,WNE/BOR,,96106 File,/cslt/docs/1996/96106/srs/srs.bk
+96106-005,1,25-Mar-97,FDGC and Z39.50 Compliance for CIDAS Systems (FZCCS) - Requirements Traceability Matrix,WNE,,96106 File,/cslt/docs/1996/96106/rtm/rtm.doc
+96106-006,1,04-Apr-97,FDGC and Z39.50 Compliance for CIDAS Systems (FZCCS) - High-Level Design Document,BOR,,96106 File,/cslt/docs/1996/96106/hldd/hldd.bk
+96106-007,1,09-May-97,FDGC and Z39.50 Compliance for CIDAS Systems (FZCCS) - System Management and Maintenance Manual,BOR,,96106 File,/cslt/docs/1996/96106/smmm/smmm.bk
+96106-008,1,20-Oct-97,FDGC Metadata Toolkit - Draft Acceptance test Plan,WNE/BOR,,96106 File,/cslt/docs/1996/96106/atp/atp.bk
+96106-008,1,30-Oct-97,FDGC Metadata Toolkit - Acceptance test Plan,WNE/BOR,,96106 File,/cslt/docs/1996/96106/atp/atp.bk
+96106-009,1,12-May-97,Revised Project Plan.,BOR,,96106 File,/cslt/docs/1996/96106/pplan2/pplan.bk
+96106-010,1,21-Oct-97,FGDC Metadata Toolkit User’s Manual,BOR,,96106 File,/cslt/docs/1996/96106/users_manual/man.bk
+96106-010,2,27-Feb-98,FGDC Metadata Toolkit User’s Manual,BOR,,96106 File,/cslt/docs/1996/96106/users_manual/new_format/metaman.bk
+,,,,,,,
+Also in:,,,,,,,
+/cslt/docs/1996/96106/users_manual/help_format/metaman.bk,,,,,,,
+,,,,,,,
+Also in:,,,,,,,
+/cslt/docs/1996/96106/users_manual/help_format/frame5/metaman.bk,,,,,,,
+96106-010,2.1,31-Aug-98,FGDC Metadata Toolkit User’s Manual,BOR,,96106 File,/cslt/docs/1996/96106/users_manual/help_format/metaman.bk
+96106-011,1,20-Jan-98,FGDC Metadata Toolkit Extensions - Proposal,BOR,,96106 File,/cslt/docs/1996/96106/proposal2/doc.bk
+96106-012,1,30-Apr-98,Meta Manager Enhancements - Proposal,BOR,,96106 File,/cslt/docs/1996/96106/proposal3/doc.bk
+96106-013,1,30-Apr-98,Letter to Susan McAninch,WNE,,96106 File,/cslt/docs/1996/96106/letters/mcninch980810.doc
+96106-014,1,19-Oct-98,Meta Manager Status Report,BOR,,96106 File,/cslt/docs/1996/96106/reports/19oct98/doc.bk
+96106-015,2.2,04-Jan-99,Meta Manager For Windows 95/NT - User’s Manual,BOR/DOM,,96106 File,/cslt/docs/1996/96106/users_manual/windows/v2.2/metaman.bk
+96106-015,3,07-Jan-99,Meta Manager For Windows 95/98/NT - User’s Manual,BOR/DOM,,96106 File,/cslt/docs/1996/96106/users_manual/windows/v3.0/metaman.bk
+96106-015,2,31-Mar-99,"Meta Manager For Windows 95/98/NT Version 3.0 - User’s Manual (Document title changed to relfect software version number, and version number now changed to 2.0 to reflect document revision number)",BOR/DOM,,96106 File,/cslt/docs/1996/96106/users_manual/windows/v3.0/metaman.bk
+96106-016,2.2,17-Dec-98,Meta Manager For Solaris - User’s Manual,BOR,,96106 File,/cslt/docs/1996/96106/users_manual/unix/v2.2/metaman.bk
+96106-016,3,12-Jan-99,Meta Manager For Unix - User’s Manual,BOR/DOM,,96106 File,/cslt/docs/1996/96106/users_manual/unix/v3.0/metaman.bk
+,,,,,,,
+,,,,,,,
+96107-001,1,21-Jun-97,SUN MultiDisk Pack Installation,LB,,96107 File,/cslt/docs/1996/96107/reports/96107-001/doc.bk
+96107-002,1,11-Nov-97,CIS Configuration,DY,,96107 File,/cslt/docs/1996/96107/reports/96107-002/doc.bk
+,,,,,,,
+96108-001,1,20-Dec-96,National Air Photo Library (NAPL) Information Management System - Technical Proposal (new format).,PTM/WNE,,96108 File,/cslt/docs/1996/96108/proposal/technical/body.bk
+96108-002,1,20-Dec-96,National Air Photo Library (NAPL) Information Management System - Cost Proposal (new format).,PTM/WNE,,96108 File,/cslt/docs/1996/96108/proposal/cost/body.bk
+,,,,,,,
+96112-001,1,???,Mineral Rights Geographic Information System (MRGIS) - Proposal,PTM,,96112 File,/cslt/docs/1996/96112/proposal/body.book
+96112-002,1,18-Feb-97,Mineral Rights Geographic Information System (MRGIS) - System Design Manual,CDP,,96112 File,/cslt/docs/1996/96112/sdm_docs/body.book
+96112-003,1,16-Apr-97,Letter to Marc Brown re: Deliverables for Phase 1,PTM,,96112 File,/cslt/docs/1996/96112/letters/Brown_M_97-04-16.doc
+96112-004,1,06-May-97,Letter to Abe Pike re: Deliverables for Phase 1,PTM,,96112 File,/cslt/docs/1996/96112letters/Pike_A_97-05-06.doc
+96112-005,1,23-May-97,Letter to Mark Brown re: Phase 1 Deliverables,PTM,,96112 File,/cslt/docs/1996/96112letters/Brown_M_97-05-23.doc
+96112-006,1,13-Aug-97,Letter to Mark Brown re: Phase 1 Completion Date,PTM,,96112 File,/cslt/docs/1996/96112letters/Brown_M_97-08-13.doc
+96112-007,1,13-Nov-97,Training Report,DY,,96112 File,/cslt/docs/1996/96112/reports/96112-007.doc
+96112-008,1,19-Nov-97,"Letter to Mark Brown re: Work Reports, etc. Review with Jim Hinchey",PTM,,96112 File,/cslt/docs/1996/96112letters/Brown_M_97-11-19.doc
+96112-009,1,19-Jan-97,MRGIS Phase II System Requirements Specification,PTM/DY/RJ,,96112 File,/cslt/docs/1996/96112/phase2docs/srs/body.bk
+96112-010,1,02-Feb-98,Letter to Mark Brown re: Revised Price Quote for Phase II,PTM,,96112 File,/cslt/docs/1996/96112/letters/Brown_M_98-02-02.doc
+96112-011,1,11-Feb-98,Letter to Mark Brown re: Second Revised Price Quote for Phase II in the form of discrete work packages,PTM,,96112 File,/cslt/docs/1996/96112/letters/Brown_M_98-02-11.doc
+96112-012,1,25-Feb-99,Letter to Mark Brown re: Response to problems/issues identified by Mines & Energy subsequent to MRGIS system review,PTM/DY,,96112 File,/cslt/docs/1996/96112/letters/Brown_M_99-02-25.doc
+,,,,,,,
+,,,,,,,
+96114-001,1,04-Dec-96,Technical Interface to the LSVCC for a Visually Impaired Person- Technical and Cost Proposal,PTM,,96114 File,/cslt/docs/1996/96114/proposal/body.bk
+96114-002,1,11-Dec-96,Letter to Lily Shen re: Clarifications to proposal,PTM,,96114 File,/cslt/docs/1996/96114/letters/96114-002.doc
+96114-003,1,20-Dec-96,Letter to Ron Palmer re: Reponses to questions regarding proposal,PTM,,96114 File,/cslt/docs/1996/96114/letters/96114-003.doc
+96114-004,1,21-Jan-97,Letter to Lily Shen re: Agenda for start-up meeting,PTM,,96114 File,/cslt/docs/1996/96114/letters/96114-004.doc
+96114-005,1,18-Feb-97,Letter to Lily Shen re: project Status Report,PTM,,96114 File,/cslt/docs/1996/96114/letters/96114-005.doc
+96114-006,1,21-Feb-97,ScreenReader Evaluation Report,PTM,,96114 File,/cslt/docs/1996/96114/eval_report/body.bk
+96114-007,1,05-May-97,Letter to Lily Shen re: Training Schedule,PTM,,96114 File,/cslt/docs/l96114/letters/96114-007.doc
+96114-008,1,27-May-97,Training Manual,PTM,,96114 File,/cslt/docs/1996/96114/training/body.bk
+96114-009,1,03-Jun-97,Letter to Lily Shen re: Problems to be addresses,PTM,,96114 File,/cslt/docs/1996/96114/letters/96114-009.doc
+96114-010,1,25-Jun-97,Letter to Lily Shen re: Scheduling of trip and standards/guidelines document,PTM,,96114 File,/cslt/docs/1996/96114/letters/96114-010.doc
+,,,,,,,
+,,,,,,,
+96116-001,1,???,Internet Public Application for the Lobbyist Registration System - Proposal,,,,/cslt/docs/1996/96116/proposal/technical/body.bk
+96116-002,1,???,Internet Public Application for the Lobbyist Registration System - Project Plan,,,,/cslt/docs/1996/96116/project_plan/0pplan.bk
+96116-003,1,???,Internet Public Application for the Lobbyist Registration System - QA Plan,,,,/cslt/docs/1996/96116/qa_plan/0qa_plan.bk
+96116-004,1,27-Jan-97,Internet Public Application for the Lobbyist Registration System - System Design Manual (new format).,BOR/RAR,,,/cslt/docs/1996/96116/sdm/sdm.bk
+96116-004,2,07-Feb-97,Internet Public Application for the Lobbyist Registration System - System Design Manual (new format).,BOR/RAR,,,/cslt/docs/1996/96116/sdm/sdm.bk
+96116-004,3,05-Mar-97,Internet Public Application for the Lobbyist Registration System - System Design Manual (new format).,BOR/RAR,,,/cslt/docs/1996/96116/sdm/sdm.bk
+96116-005,1,08-Jan-97,Internet Public Application for the Lobbyist Registration System - Requirements Traceability Matrix,WNE,,,/cslt/docs/1996/96116/rtm/rtm.bk
+96116-006,1,22-Jan-97,Internet Public Application for Conflict of Interest Statements - Proposal,LB,,96116 File,/cslt/docs/1996/96116/proposal2/body.bk
+96116-007,1,10-Feb-97,Internet Public Application for the Lobbyists Registration System (IPALRS) - User’s Manual,JR,,96116 File,/cslt/docs/1996/96116/users_manual/0lrs..book
+96116-008,1,17-Feb-97,Internet Public Application for the Lobbyists Registration System (IPALRS) - Acceptance Test Plan,WNE/BOR,,96116 File,/cslt/docs/1996/96116/atp/0atp..bk
+96116-008,2,17-Mar-97,Internet Public Application for the Lobbyists Registration System (IPALRS) - Acceptance Test Plan,WNE/BOR,,96116 File,/cslt/docs/1996/96116/atp/0atp..bk
+96116-009,1,18-Feb-97,Compusult response to HLDM Review 2.0,WNE/BOR,,96116 File,/cslt/docs/1996/96116/sdm/hldmrev2.doc
+96116-010,1,18-Feb-97,Conflict of Interest - Project Plan,WNE/BOR,,96116 File,/cslt/docs/1996/96116/coi/project_plan
+96116-011,1,04-Jun-97,Letter to Raymond Brunet regarding Support for LRS,BOR,,96116 File,/cslt/docs/1996/96116/letters/lrs_support.doc
+96116-012,1,04-Jun-97,Letter to Raymond Brunet regarding COI add-on,BOR,,96116 File,/cslt/docs/1996/96116/letters/coi_add-on.doc
+96116-013,1,29-Oct-98,LRRS and COI - Year 2000 Impact Report,CIC,,96116 File,/cslt/docs/1996/96116/reports/y2k_impact/doc.bk
+96116-014,1,08-Apr-99,Letter to Suzanne Julien providing personnel rates for FY 1999-2000.,WNE,,OEC Communications Log,/cslt/docs/1996/96116/letters/99-00_rates.doc
+96116-015,1,22-Jun-00,Letter to Suzanne Julien providing personnel rates for FY 2000-2001.,WNE,,OEC Communications Log,/cslt/docs/1996/96116/letters/00-01_rates.doc
+96116-016,1,08-May-01,Letter to Suzanne Julien providing personnel rates for FY 2001-2002.,WNE,,OEC Communications Log,/cslt/docs/1996/96116/letters/01-02_rates.doc
+,,,,,,,
+96121-001,1,14-Jan-97,Technical/Cost Proposal,PTM,,96121 File,/cslt/docs/1996/96121/proposal/technical/body.bk
+96121-003,1,11-Dec-96,Letter to D. Levesque re: Confirmation of Attendance,PTM,,96121 File,/cslt/docs/1996/96121/letters/96121-003.doc
+96121-004,1,02-Jan-97,Letter to D. Levesque re: RFP clarifications,PTM,,96121 File,/cslt/docs/1996/96121/pletters/96121-004.doc
+96121-005,1,07-Jan-97,Letter to D. Levesque re: RFP clarifications,PTM,,96121 File,/cslt/docs/1996/96121/pletters/96121-005.doc
+96121-006,1,15-Jan-97,Letter to D. Levesque re: RFP submission,PTM,,96121 File,/cslt/docs/1996/96121/pletters/96121-006.doc
+,,,,,,,
+96123-001,1,19-Nov-96,"Tender for 37 WordPerfect Upgrades, GPA",RWT,,96123 File,/cslt/docs/1996/96123/wpbid.doc
+,,,,,,,
+96124-001,1,04-Dec-96,Confirmation of Cisco AS5100/AS5200 Upgrade Offer,RWT,,96124 File,/cslt/docs/1996/96124/cisco.doc
+,,,,,,,
+96125-001,1,13-Dec-96,E-mail access for Sobeys Newfoundland,RWT,,96125 File,/cslt/docs/1996/96125/sobeys.doc
+,,,,,,,
+96138-001,1,03-Feb-97,Adaptation and Enhancement of the Doppler Analysis Software - Technical and Management Proposal,PTM/BG,,96138 File,/cslt/docs/1996/96138/proposal/technical/body.bk
+96138-002,1,03-Feb-97,Adaptation and Enhancement of the Doppler Analysis Software - Price and Method of Payment Proposal,PTM,,96138 File,/cslt/docs/1996/96138/proposal/cost/body.bk
+,,,,,,,
+96141-001,1,21-Feb-97,Applications Modification Assessment Document,CDP/ DY,,,/cslt/docs/1996/96141/assessment/body.book
+96141-002,1,30-May-97,Pesticide Information Management System,DY,,,/cslt/docs/1996/96141/Pesticide/body.book
+96141-004,1,29-Sep-97,Change Proposal Quotation - CP 96141-054,CDP,,,/cslt/docs/1996/96141/Quotation
+96141-005,1,30-Oct-97,Letter to Abe Pike Re: Warranty Coverage,PTM,,,/cslt/docs/1996/96141/letters/Pike_A_97-10-30.doc
+96141-006,1,10-Nov-97,Letter to Bill Day Re: TR Response,WE/CP,,,/cslt/docs/1996/96141/Quotation/96141-006.doc
+96141-007,1,13-Nov-97,"Change Proposal Quotation - CP’s 061, 064 and 065",DY,,,/cslt/docs/1996/96141/Quotation/96141-007.doc
+96141-008,1,04-Dec-97,Letter to Abe Pike Re: Revised Quote for PIMS,PTM,,96141 File,/cslt/docs/1996/96141/letters/Pike_A_97-12-04.doc
+96141-009,1,08-Dec-97,Letter to Abe Pike Re: Second Revised Quote for PIMS,PTM,,96141 File,/cslt/docs/1996/96141/letters/Pike_A_97-12-08.doc
+96141-010,1,15-Jan-98,Proposal for PIMS development,PTM,,96141 File,/cslt/docs/1996/96141/PIMSproposal/body.bk
+,,,,,,,
+96143-001,1,05-Feb-97,Evaluation of Laser Rangefinder Technology for ALBEDOS Mod. 1 - Technical and Management Proposal,PTM/BG,,96143 File,/cslt/docs/1996/96143/proposal/technical/body.bk
+96143-002,1,05-Feb-97,Evaluation of Laser Rangefinder Technology for ALBEDOS Mod. 1 - Price and Method of Payment Proposal,PTM,,96143 File,/cslt/docs/1996/96143/proposal/cost/body.bk
+96143-003,1,12-Feb-97,Letter to Jacques Fortin re: Price Proposal Clarifications,PTM,,96143 File,/cslt/docs/1996/96143/letters/96143-003.doc
+96143-004,1,14-Feb-97,Letter to Jacques Fortin re: PGSC Personnel Info,PTM,,96143 File,/cslt/docs/1996/96143/letters/96143-004.doc
+96143-005,1,30-Apr-97,Interim Report #1,PTM/BG,,96143 File,/cslt/docs/1996/96143/interim_reports/report1/body.bk
+96143-006,1,31-May-97,Phase 1 Report - Laser Rangefinder Technology Market Survey,PTM,,96143 File,/cslt/docs/1996/96143/survey/report/body.bk
+96143-007,1,31-May-97,Phase 2 Report - Laser Rangefinder Computer Simulations,PTM,,96143 File,/cslt/docs/1996/96143/simulations/report/body.bk
+96143-008,1,15-Jul-97,Final Report,PTM/BG,,96143 File,/cslt/docs/1996/96143/final-report
+96143-009,1,09-Sep-97,"Letter to Jacques Fortin, PWGSC re: Status of Final Payment",PTM,,96143 File,/cslt/docs/1996/96143/letters/96143-009
+96143-010,1,14-Apr-98,Letter to Vincent Larochelle re: Latest ALST LRF Info,PTM,,96143 File,/cslt/docs/1996/96143/letters/96143-010
+,,,,,,,
+96148-001,1,31-Jan-97,Proposal to CHS for CHSDIR,BOR,,96148File,/cslt/docs/1996/96148/proposal
+96148-002,1,20-Feb-97,CHSDIR Project Plan,WNE/LB,,96148File,/cslt/docs/1996/96148/project_plan
+96148-003,1,07-Mar-97,CHSDIR Requirements Traceability Matrix,WNE/LB,,96148File,/cslt/docs/1996/96148/rtm
+96148-004,1,07-Mar-97,"CHSDIR Project Report for March 07, 1997",LB,,96148File,/cslt/docs/1996/96148/reports/970307
+,,,,,,,
+96999-001,1,19-Mar-96,Letter to Bob Bureaux regarding Centrix service.,BOR,,Newfoundland Telephone File,/cslt/docs/1996/96999/96999-001.doc
+96999-002,1,19-Mar-96,Letter to Frank Davis Accepting to be on the Board of Directors.,BOR,,Operation Online,/cslt/docs/1996/96999/96999-002.doc
+,,,,,,,
+97001-001,1,07-Sep-00,Letter to Virginia Zazulak re: Renewal of Compusult Limited’s Enhanced Reliability level,WNE,,Security File,/cslt/docs/1997/97001/letters/97001-001.doc
+97001-002,1,10-Oct-00,Letter to Bernard Martin re: Facility Security Clearance,WNE/BOR,,Security File,/cslt/docs/1997/97001/letters/97001-002.doc
+97001-003,1,06-Mar-01,Letter to Bernard Martin re: Enhanced reliability check for RT.,WNE/BOR,,Security File,/cslt/docs/1997/97001/letters/97001-003.doc
+97001-004,0.1,26-Sep-01,Compusult Limited - Draft Company Security Orders for Designated Material and Information,WNE/RT,,,/cslt/docs/1997/97001/security_orders/body.bk
+97001-004,1,15-Oct-01,Compusult Limited - Company Security Orders for Designated Material and Information,WNE,,,/cslt/docs/1997/97001/security_orders/cslt_cso_011015.pdf
+,,,,,,,
+97015-001,1,11-Apr-97,LIDAR Sensor of Maritime Infrared Environment - Technical and Management Proposal,PTM/BG,,97015 File,/cslt/docs/1997/97015/proposal/technical/body.bk
+97015-002,1,11-Apr-97,LIDAR Sensor of Maritime Infrared Environment - Price and Method of Payment Proposal,PTM,,97015 File,/cslt/docs/1997/97015/proposal/cost/body.bk
+,,,,,,,
+97030-001,1,02-Apr-97,Technological Development to Meet the Needs of Sensory and Cognitively Impaired Travellers - Technical and Management Proposal,PTM,,97030 File,/cslt/docs/1997/97030/proposal/technical/body.bk
+97030-002,1,02-Apr-97,Technological Development to Meet the Needs of Sensory and Cognitively Impaired Travellers - Price and Method of Payment Proposal,PTM,,97030 File,/cslt/docs/1997/97030/proposal/technical/body.bk
+97030-003,1,03-Apr-97,Letter to François Legris re: status of proposal submission,PTM,,97030 File,/cslt/docs/1997/97030/letters/Legris_F_97-04-03.doc
+,,,,,,,
+97048-001,1,12-May-97,Expression of Interest for USPS Electronic Postmark Services,PTM,,97048 File,/cslt/docs/1997/97048/eoi/express.bk
+97048-002,1,12-May-97,Covering letter to Booker Weaver,PTM,,97048 File,/cslt/docs/1997/97048/letters/97048-002.doc
+,,,,,,,
+97050,1,08-May-97,Quotation to Ron Pitcher of Pennecon Ugland,PTM,,97050 File,/cslt/docs/1997/97050/97050-001.doc
+,,,,,,,
+97051-001,1,23-Jun-97,Letter to Maurice Devine re: ACAN Software Assessment Options & Costing,DY,,97051 File,/cslt/docs/1997/97051/Letters/
+97051-002,1,24-Jul-97,ACAN Windows Inc. - Software Assessment,CP,,,/cslt/docs/1997/97051/docs/
+97051-003,1,27-Aug-97,Letter to Maurice Devine re: ACAN File Manipulation Quotation,DY,,97051 File,/cslt/docs/1997/97051/Letters/
+,,,,,,,
+97052-001,1,13-May-97,Proposal for System Architecture Documentation for LRS,BOR,,97052 File,/cslt/docs/1997/97052/proposal/body.bk
+,,,,,,,
+97053-001,1,20-Jun-97,CEOArch/CEOCat Interface - Proposal,BOR,,97053 File,/cslt/docs/1997/97053/proposal
+97053-002,1,03-Jul-97,CEOArch/CEOCat Interface - Project Plan,WNE,,,/cslt/docs/1997/97053/pplan
+97053-003,1,03-Jul-97,CEOArch/CEOCat Interface - Quality Assurance Plan (This one has been made more generic.),WNE,,,/cslt/docs/1997/97053/qa_plan
+97053-004,1,07-Jul-97,CEOArch/CEOCat Interface - Draft System Requirements Specification,WNE/BOR/LB,,,/cslt/docs/1997/97053/srs
+97053-004,1.1,25-Aug-97,CEOArch/CEOCat Interface - Draft System Requirements Specification,WNE/BOR/LB,,,/cslt/docs/1997/97053/srs/NEW
+97053-004,1.2,03-Sep-97,CEOArch/CEOCat Interface - Draft System Requirements Specification,WNE/BOR/LB,,,/cslt/docs/1997/97053/srs/NEW
+97053-004,1.3,03-Oct-97,CEOArch/CEOCat Interface - Draft System Requirements Specification,WNE/BOR/LB,,,/cslt/docs/1997/97053/srs/NEW
+97053-004,1.4,07-Oct-97,CEOArch/CEOCat Interface - Draft System Requirements Specification,WNE/BOR/LB,,,/cslt/docs/1997/97053/srs/NEW
+97053-004,1.5,03-Nov-97,CEOArch/CEOCat Interface - System Requirements Specification,WNE/BOR/LB,,,/cslt/docs/1997/97053/srs/NEW
+97053-004,1.6,02-Dec-97,CEOArch/CEOCat Interface - System Requirements Specification,WNE/BOR/LB,,,/cslt/docs/1997/97053/srs/NEW
+97053-004,1.7,03-Dec-97,CEOArch/CEOCat Interface - System Requirements Specification,WNE/BOR/LB,,,/cslt/docs/1997/97053/srs/NEW
+97053-005,1,07-Jul-97,CEOArch/CEOCat Interface - Requirements Traceability Matrix,WNE,,,/cslt/docs/1997/97053/rtm
+97053-005,1.1,25-Aug-97,CEOArch/CEOCat Interface - Requirements Traceability Matrix,WNE,,,/cslt/docs/1997/97053/rtm
+97053-005,1.2,03-Sep-97,CEOArch/CEOCat Interface - Requirements Traceability Matrix,WNE,,,/cslt/docs/1997/97053/rtm
+97053-005,1.3,03-Oct-97,CEOArch/CEOCat Interface - Requirements Traceability Matrix,WNE,,,/cslt/docs/1997/97053/rtm
+97053-005,1.4,07-Oct-97,CEOArch/CEOCat Interface - Requirements Traceability Matrix,WNE,,,/cslt/docs/1997/97053/rtm
+97053-005,1.5,03-Nov-97,CEOArch/CEOCat Interface - Requirements Traceability Matrix,WNE,,,/cslt/docs/1997/97053/rtm
+97053-005,1.7,03-Dec-97,CEOArch/CEOCat Interface - Requirements Traceability Matrix,WNE,,,/cslt/docs/1997/97053/rtm
+97053-006,1,19-Sep-97,CEOArch/CEOCat Interface - Acceptance Test Plan,WNE/BOR/LB,,,/cslt/docs/1997/97053/atp
+97053-007,1,09-Sep-97,CEOArch/CEOCat Interface - System Management & Maintenance Manual,LB/BOR,,,/cslt/docs/1997/97053/smmm
+97053-008,1,08-Aug-97,Letter to Sussan McAninch,BOR,,,/cslt/docs/1997/97053/letters/mile.doc
+97053-009,1,04-Nov-97,Letter to Arvon Erickson,BOR,,,/cslt/docs/1997/97053/letters/mile2.doc
+97053-010,2,16-Jan-98,CEOCat - User’s Manual,,,,
+,,,,,,,
+(Originally issued as CCRS Data Holdings - User’s Manual under Proj. # 95058... Updated Revision # to 2.0 to reflect the CEOCat S/W Version #.),WNE/BOR/LB,,,/cslt/docs/1997/97053/users_manual/doc.bk,,,
+97053-010,2.1,22-Jan-98,CEOCat - User’s Manual,,,,
+,,,,,,,
+(Originally issued as CCRS Data Holdings - User’s Manual under Proj. # 95058... Updated Revision # to 2.0 to reflect the CEOCat S/W Version #.),WNE/BOR/LB,,,/cslt/docs/1997/97053/users_manual/doc.bk,,,
+97053-010,2.2,03-Feb-98,CEOCat - User’s Manual,,,,
+,,,,,,,
+Updated to reflect Arvon’s review.,BOR,,,/cslt/docs/1997/97053/users_manual/doc.bk,,,
+97053-011,1,01-May-98,CEOCat System Upgrade - Part A: Technical Proposal,BOR,,,/cslt/docs/1997/97053/2proposal/doc.bk
+97053-011,1,01-May-98,CEOCat System Upgrade - Part B: Price Proposal,BOR,,,/cslt/docs/1997/97053/2proposal/doc.bk
+97053-012,1,05-Jun-98,CEOCat System Upgrade - Preliminary System Requirements Specification (SRS),BOR/LB/WNE,,,/cslt/docs/1997/97053/2srs/doc.bk
+97053-012,2,14-Aug-98,CEOCat System Upgrade - Draft System Requirements Specification (SRS),BOR/LB/WNE,,,/cslt/docs/1997/97053/2srs/doc.bk
+97053-012,2.1,01-Oct-98,CEOCat System Upgrade - Draft System Requirements Specification (SRS),BOR/LB/WNE,,,/cslt/docs/1997/97053/2srs/doc.bk
+97053-012,2.2,21-Oct-98,CEOCat System Upgrade - System Requirements Specification (SRS),BOR/LB/WNE,,,/cslt/docs/1997/97053/2srs/doc.bk
+97053-013,1,05-Jun-98,CEOCat System Upgrade - High-Level Design Document (HLDD),BOR/LB/WNE,,,/cslt/docs/1997/97053/2hldd/doc.bk
+97053-013,2,14-Aug-98,CEOCat System Upgrade - High-Level Design Document (HLDD),BOR/LB/WNE,,,/cslt/docs/1997/97053/2hldd/doc.bk
+97053-013,2.1,06-Oct-98,CEOCat System Upgrade - High-Level Design Document (HLDD),BOR/LB/WNE,,,/cslt/docs/1997/97053/2hldd/doc.bk
+97053-014,1,15-Sep-98,CEOCat System Upgrade - Implementation Plan,BOR/LB/WNE,,,/cslt/docs/1997/97053/2pplan/doc.bk
+97053-014,2,20-Nov-98,CEOCat System Upgrade - Implementation Plan,BOR/WNE,,,/cslt/docs/1997/97053/2pplan/doc.bk
+97053-014,3,22-Jan-99,CEOCat System Upgrade - Implementation Plan,BOR/WNE,,,/cslt/docs/1997/97053/2pplan/doc.bk
+97053-015,1,10-Jun-98,Letter to Sussan McAninch,WNE,,,/cslt/docs/1997/97053/letters/mcaninch980610.doc
+97053-016,1,05-Oct-98,CEOCat System Upgrade - Cost Proposal - Phase 1,BOR,,,/cslt/docs/1997/97053/2pplan/cost
+97053-017,1,05-Oct-98,CEOCat System Upgrade - Cost Proposal - Phase 2,BOR,,,/cslt/docs/1997/97053/2pplan/cost2
+,,,,,,,
+97070-001,1,13-Jun-97,Adaptive Feasibility Studies - Proposal to NIB,PTM,,97070 File,/cslt/docs/1997/97070/proposal1/body.bk
+97070-002,1,09-Jul-97,"Letter to Fred Lee, VAMC, Albany, NY",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-002.doc
+97070-003,1,17-Jul-97,"Letter to Bill Rives, VAMC, East Orange, NJ",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-003.doc
+97070-004,1,17-Jul-97,"Letter to Debra Richardson, VAMC, East Orange, NJ",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-004.doc
+97070-005,1,18-Jul-97,"Letter to Sue Fiaschetti, VAMC, Albany, NY",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-005.doc
+97070-006,1,08-Aug-97,Adaptive technology Feasibility Studies - Report,PTM/BG,,97070 File,/cslt/docs/1997/97070/report1/body.bk
+97070-007,1,26-Aug-97,"Proposal: Adaptive Technology for Visually Impaired Operators at Albany, NY VAMC",PTM/BG,,97070 File,/cslt/docs/97070/report1/NYproposal/body.book
+97070-008,1,26-Aug-97,"Proposal: Adaptive Technology for Visually Impaired Operators at East Orange, NJ VAMC",PTM/BG,,97070 File,/cslt/docs/1997/97070/report1/NJproposal/body.book
+97070-009,1,10-Oct-97,"Letter to Robert Ross, Commission for the Blind and Visually Handicapped, Albany re: Compusult Proposal",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-008.doc
+97070-010,1,07-Jan-98,Letter to Steve Pavelsky re: Tuscon VA info requirements,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-010.doc
+97070-011,1,14-Jan-98,Revised Proposal: Adaptive Technology for Visually Impaired Operators at Albany NY VAMC delivered to New York State Commission for the Blind and Visually Handicapped,PTM/BG,,97070 File,/cslt/docs/1997/97070/report1/NJproposal2/body.book
+97070-012,1,03-Mar-98,Proposal Adaptive Technology for Visually Impaired ,,,,
+"Operators at Tucson, AZ VAMC delivered to Tucson Association for the Blind and Visually Impaired",PTM/BG,,97070 File,/cslt/docs/1997/97070/AZ_proposal/body.book,,,
+97070-013,1,03-Apr-98,Contract - Adaptive Technology for Visually Impaired ,,,,
+"Operators at East Orange, NJ VAMC delivered to New Jersey Association of the Deaf /Blind",PTM,,97070 File,/cslt/docs/1997/97070/NJ_contract/body.book,,,
+97070-014,1,06-Mar-98,"Letter to Eugene Luini, Tucson Association for the Blind and Visually Impaired re: Warranty on Responder system",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-014.doc
+97070-015,1,06-Mar-98,"Letter to Steve Pavelsky, NIB re: Warranty on Responder system",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-015.doc
+97070-016,1,14-Apr-98,"Letter to Linda Wilson, New Jersey Association of the Deaf-Blind re: Draft Contract (see 97070-013)",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-016.doc
+97070-017,1,16-Apr-98,"Letter to Linda Wilson, New Jersey Association of the Deaf-Blind re: Copy of Insurance Policy and references",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-017.doc
+97070-018,1,22-Apr-98,"Letter to Linda Wilson, New Jersey Association of the Deaf-Blind re: Revised Draft Contract (see 97070-013)",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-018.doc
+97070-019,1,22-Apr-98,"Letter to Eugene Luini, Tucson Association for the Blind and Visually Impaired re: Shipment of Contract",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-019.doc
+97070-020,1,29-Apr-98,"Letter to Eugene Luini, Tucson Association for the Blind and Visually Impaired re: Modifications to Contract",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-020.doc
+97070-021,1,08-May-98,"Letter to Kenneth Galarneau, Commission for the Blind and Visually handicapped re: Shipment of Payment.",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-021.doc
+97070-022,1,01-Jun-98,"Letter to Linda Wilson, New Jersey Association of the Deaf-Blind re: Contract Status",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-022.doc
+97070-023,1,01-Jun-98,"Letter to Eugene Luini, Tucson Association for the Blind and Visually Impaired re: Contract Status",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-023.doc
+97070-024,1,03-Jun-98,"Letter to Eugene Luini, Tucson Association for the Blind and Visually Impaired re: Proposed Installation Dates",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-024.doc
+97070-025,1,24-Jun-98,Letter to Sue Fiaschetti re: Proposed Installation Dates for Albany VAMC,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-025.doc
+97070-026,1,24-Jun-98,"Linda Wilson, New Jersey Association of the Deaf-Blind re: Proposed Installation Dates for East Orange VAMC",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-026.doc
+97070-027,1,02-Jul-98,"Linda Wilson, New Jersey Association of the Deaf-Blind re: cover letter with contract",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-027.doc
+97070-028,1,17-Jul-98,Proposal for Adaptive Technology for Tinker AFB,PTM,,97070 File,/cslt/docs/1997/97070/TinkerAFB_proposal/body.book
+97070-029,1,17-Jul-98,Proposal for Adaptive Technology for Holloman AFB,PTM,,97070 File,/cslt/docs/1997/97070/HollomanAFB_proposal/body.book
+97070-030,1,17-Jul-98,"Covering letter to Wayne Bonham, NIB re: Proposals for Tinker and Holloman AFBs",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-030.doc
+97070-031,1,27-Jul-98,"Letter to Linda Wilson, New Jersey Association of the Deaf-Blind re: Revised Proposed Installation Dates for East Orange VAMC",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-031.doc
+97070-032,1,07-Aug-98,"Letter to Linda Wilson, New Jersey Association of the Deaf-Blind re: Revised Proposed Installation Dates for East Orange VAMC",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-032.doc
+97070-033,1,07-Aug-98,Letter to Bill Rives re: Installation dates at the East Orange VAMC,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-033.doc
+97070-034,1,07-Aug-98,Letter to Vivian Beasly re: Proposed Installation Dates for Tucson VAMC,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-034.doc
+97070-035,1,07-Aug-98,Letter to Eugene Luini re: Proposed Installation Dates for Tucson VAMC and availability of telephone line,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-035.doc
+97070-036,1,03-Sep-98,Letter to Eugene Luini re: Delivery of system and sign-off & release of final payment,VFC/PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-036.doc
+97070-036,,,,,,,
+(repeat),1,09-Sep-98,Proposal for Adaptive Technology for Davis Monthan AFB,PTM,,97070 File,/cslt/docs/1997/97070/DM-AFBproposal/body.book
+97070-038,1,11-Sep-98,Letter to Eugene Luini re: Partnering arrangement,PTM,,97070 File,/cslt/docs/97070/letters/97070-038.doc
+97070-039,1,11-Sep-98,Letter to Linda Wilson re: Partnering arrangement,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-039.doc
+97070-040,1,11-Sep-98,Letter to Sue Fiaschetti re: Partnering arrangement,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-040.doc
+97070-041,1,05-Oct-98,Letter to Linda Wilson re: Sign-Off and Problem Report,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-041.doc
+97070-042,1,06-Oct-98,"Letter to Rollande Young, Pulnix America re: claim for compensation for defective Pulnix cameras",VC,,97070 File,/cslt/docs/letters/1997/97070-042.doc
+97070-043,1,11-Dec-98,DigiCite Warranty Statement,VC/PTM,,97070 File,/cslt/docs/letters/1997/97070-043.doc
+97070-044,1,22-Dec-98,Letter to Steve Pavelsky: re MacDill & Barksdale AFB quotes,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-044.doc
+97070-045,1,09-Apr-99,Letter to Steve Pavelsky - Y2K Compliancy,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-045.doc
+97070-046,1,05-Apr-99,Letter to Kimberley Finney (NJADB) - Y2K Compliancy,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-046.doc
+97070-047,1,22-Apr-99,Letter to Gene Luini (Tucson) - Y2K Compliancy,MJT,,97070 File,/cslt/docs/1997/97070/letters/97070-047.doc
+97070-048,1,22-Apr-99,Letter to Rebecca Zohn (Albany) - Y2K Compliancy,MJT,,97070 File,/cslt/docs/1997/97070/letters/97070-048.doc
+97070-049,1,04-May-99,Letter to John Jerome (Tampa Lighthouse) re: Site Investigation costs for MacDill AFB,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-049.doc
+97070-050,1,31-May-99,Letter to John Jerome (Tampa Lighthouse) re: P.O. for Site Investigation costs for MacDill AFB & Contract,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-050.doc
+97070-051,1,03-Jun-99,Proposal - Adaptive Technology for Telephone Consoles at MacDill AFB,PTM,,97070 File,/cslt/docs/1997/97070/AFB-MacDill/proposal/body.book
+97070-052,1,10-Jun-99,DigiCite System Guide,PTM,,97070 File,/cslt/docs/1997/97070/guides/digicite/body.book
+97070-053,1,,,,,,
+4.5,20-Aug-99,,,,,,
+01-Nov-00,Responder User’s Manual,PTM,,97070 File,/cslt/docs/1997/97070/guides/responder/body.book,,
+97070-054,1,20-Aug-99,Vindicator System Guide,PTM,,97070 File,/cslt/docs/1997/97070/guides/vindicator/body.book
+97070-055,1,20-Aug-99,DigiCite User’s Manual,PTM,,97070 File,/cslt/docs/1997/97070//manuals/digicite/body.book
+97070-056,1,20-Aug-99,Responder System Guide,PTM,,97070 File,/cslt/docs/1997/97070//manuals/responder/body.book
+97070-057,1,20-Aug-99,Vindicator User’s Manual,PTM,,97070 File,/cslt/docs/1997/97070//manuals/vindicator/body.book
+97070-058,1,28-Jul-99,"Letter to Gene Liuni (Tucson) re: Responder system reponse times at Tucson VA, training and Aug 21-27 visit",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-058.doc
+97070-059,1,28-Jul-99,DigiCite Demonstration System User’s Manual,PTM,,97070 File,/cslt/docs/1997/97070//manuals/digicite_demo/body.book
+97070-060,1,30-Jul-99,Letter to Gene Luini (Tucson) re: Responder System Test Procedures,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-060.doc
+97070-061,1,30-Aug-99,Letter to John Jerome (Tampa Lighthouse) re: Pre-installation issues/clarifications,PTM,,97070 File,/cslt/docs/1997/97070/AFB-MacDill/letters/97070-061.doc
+97070-062,1,10-Sep-99,"Letter to Gene Luini (Tucson) re: Responder User’s Manual, Tucson VA training and Sept. 20 visit",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-062.doc
+97070-063,1,27-Sep-99,"Letter to John Jerome (Tampa Lighthouse) re: Post-installation summary, invoice and notes.",PTM,,97070 File,/cslt/docs/1997/97070/AFB-MacDill/letters/97070-063.doc
+97070-064,1,19-Oct-99,Letter to Charlie Kirk (OLB) re: Modem configuration and data communications sofwtare operations on NetWinder at Console 1 position,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-064.doc
+97070-064a,1,05-Nov-99,Letter to Belinda Hayle of Federal Express,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-063a.doc
+97070-065,1,07-Oct-99,Adaptive Technology for Telephone Consoles at the Biloxi VA - Proposal,PTM,,97070 File,/cslt/docs/1997/97070/VA-Biloxi/proposal/body.book
+97070-066,1,04-Jan-00,Adaptive Technology for Telephone Consoles at Dyess AFB - Proposal,PTM,,97070 File,/cslt/docs/1997/97070/AFB-Dyess/proposal/body.book
+97070-067,1,07-Mar-00,"Letter to Joseph Turton, Albany VA re: Add-on to Responder System",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-067.doc
+97070-068,1,08-Mar-00,"Letter to Joseph Turton, Albany VA re: Replacement for existing Code 4 System",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-068.doc
+97070-069,1,09-Mar-00,Letter to Charlie Kirk (OLB) re: File contents for NetWinder,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-069.doc
+97070-070,1,30-Mar-00,Letter to Luca Esposito (CABVI) re: Request for work authorization to perform upgrade to Responder system at Albany VA to handle Code 4 panel alarms,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-070.doc
+97070-071,1,13-Apr-00,Letter to Rebecca Zohn (CABVI) re: Quotes for additional work and warranty extensions on equipment at Albany VA,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-071.doc
+97070-072,1,13-Apr-00,Letter to Kenny Fernald (Blind Work Association Inc.) re: Quote for standalone Vindicator unit.,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-072.doc
+97070-073,1,13-Apr-00,Letter to Luca Esposito (CABVI) re: Quotes for additional work and warranty extensions on equipment at Albany VA,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-071.doc
+97070-074,1,13-Apr-00,Letter to Allan Harris (CBVH) re: Quotes for additional work and warranty extensions on equipment at Albany VA,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-071.doc
+97070-075,1,02-May-00,Letter to Gene Luini (TABVI) re: Equipment layout and operations at Davis Monthan AFB,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-075.doc
+97070-076,1,08-May-00,"Proposal for Telephone Console Adaptation at Lyons, NJ VA",PTM,,97070 File,/cslt/docs/1997/97070/VA-Lyons//proposal/body.book
+97070-077,1,01-Jun-00,Letter to Gwen Vanderfin re: DigiCite equipment layout and operations at the Biloxi VA,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-077.doc
+97070-078,1,23-Jun-00,"Proposal for Telephone Console and Alarm Panel Adaptation at Columbia, MO VA",PTM,,97070 File,/cslt/docs/1997/97070/VA-Columbia/proposal/body.book
+97070-079,1,26-Jun-00,"Proposal for Telephone Console and Alarm Panel Adaptation at Montrose & Castlepoint, NY VAs",PTM,,97070 File,/cslt/docs/1997/97070/VA-Montrose/proposal/body.book
+97070-080,1,29-Jun-00,Proposal for WWW-accessible database application for ABVI-Goodwill,PTM,,97070 File,/cslt/docs/1997/97070/ABVI-Goodwill/proposal/doc.bk
+97070-081,1,30-Jun-00,Proposal for accessibility enhancements to POS application,PTM,,97070 File,/cslt/docs/1997/97070/POS/proposal/body.book
+97070-082,1,06-Jul-00,Letter to Ralston Barnes re: Written quotation for adapting Nortel NT4X09 telephone consoles at Barksdale AFB,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-082.doc
+97070-083,1,24-Jul-00,"Letter to Rebecca Zohn, Albany VA re: Updated quotation for replacement of Code 4 system.",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-083.doc
+97070-084,1,07-Aug-00,"Letter to Dave Scudder, Intellidapt re: Info on Vindicator and other AT products",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-084.doc
+97070-085,1,01-Sep-00,Letter to Jim Jankun re: Installtion schedule and requirements for Montrose and Castlepoint VAs,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-085.doc
+97070-086,1,22-Sep-00,"Letter to Bernice Reeder, East Orange VA re: Quote for adding panels to existing Responder system",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-086.doc
+97070-087,1,01-Nov-00,Installation Summary Report for the Columbia VA,PTM,,97070 File,/cslt/docs/1997/97070/VA-Columbia/report/body.book
+97070-088,1,07-Dec-00,"Letter to Clay Berry, Alphapointe re: Shipment of TECSO software for evaluation with list prices",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-088.doc
+97070-089,1,13-Dec-00,"Letter to Gene Luini, TABVI re: Details on Marshal 1208 camera used in DigiCite system at DMAFB",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-089.doc
+97070-090,1,08-Jan-01,"Letter to Luca Esposito, CABVI re: Status of Adapting Keltron DMP200 and problems with Code 4 alarm monitoring system",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-090.doc
+97070-091,1,10-Jan-01,"Letter to Fred Lee, Albany VA re: Testing of DMP200 adaptation plus additional code/alarm message info",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-091.doc
+97070-092,1,26-Mar-01,"Letter to Tom Simon, Albany VA re: Alternate (Vindicator) installation proposal for Code 4 Alarm Panel",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-092.doc
+97070-093,1,05-Apr-01,"Letter to Rebecca Zohn, CABVI re: Alternate Code 4 monitoring solution using tap from VA system",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-093.doc
+97070-094,1,05-Apr-01,"Letter to Gary Boucher, Albany VA FMS re: Alternate Code 4 monitoring solution using tap from VA system",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-094.doc
+97070-095,1,05-Apr-01,"Letter to Jacob Hoffman, Albany VA FMS re: Alternate Code 4 monitoring solution using tap from VA system",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-095.doc
+97070-096,1,14-May-01,Proposal to Siemens re: Adaptive Technology for Telephone Consoles at the Houston VAMC,PTM,,97070 File,/cslt/docs/1997/97070/VA-Houston/proposal/body.bk
+97070-097,1,14-Dec-01,Proposal: Workplace Adaptation Services at Dover AFB,PTM,,97070 File,/cslt/docs/1997/97070/AFB-Dover/proposal/Compusult_Proposal_for_Dover_AFB.pdf
+,2,11-Jan-02,Proposal: Workplace Adaptation Services at Dover AFB,PTM,,97070 File,/cslt/docs/1997/97070/AFB-Dover/proposal/body.bk
+97070-098,1,12-Jan-02,Proposal: Workplace Adaptation Services At McGuire AFB,PTM,,97070 File,/cslt/docs/1997/97070/AFB-McGuire/proposal/body.bk
+97070-099,1,16-Jan-02,Proposal: Workplace Adaptation Services At Andrews AFB,PTM,,97070 File,/cslt/docs/1997/97070/AFB-Andrews/proposal/body.bk
+97070-100,1,07-Feb-02,Proposal: Workplace Adaptation Services At Scott AFB,PTM,,97070 File,/cslt/docs/1997/97070/AFB-Scott/proposal/body.bk
+97070-101,1,02-May-02,Quote: Additional TeleTalk Systems at Andrews AFB,PTM,,97070 File,/cslt/docs/1997/97070/AFB-Andrews/Quote97070-101.doc
+97070-102,1,05-Jun-02,Proposal: Workplace Adaptation Services at Charleston AFB,PTM,,97070 File,/cslt/docs/1997/97070/AFB-Charleston/proposal/body.bk
+97070-103,1,08-Nov-02,"Letter to Tony Haasz, East Orange VA, for extended warranty on Responder System",PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-103
+97070-104,1,23-Dec-02,"Proposal: Assistive Technology for Alarm Panels at the Erie, Pennsylvania VA Medical Center",PTM,,97070 File,/cslt/docs/1997/97070/VA-Erie/proposal/rev1/body.book
+97070-104,2,18-Mar-03,"Proposal: Assistive Technology for Alarm Panels at the Erie, Pennsylvania VA Medical Center",PTM,,97070 File,/cslt/docs/1997/97070/VA-Erie/proposal/rev2/body.book
+97070-105,1,07-Aug-03,"Proposal: Assistive Technology for Alarm Panels at the Salem, Virginia VA Medical Center",PTM,,97070 File,/cslt/docs/1997/97070/VA-Salem/proposal/body.book
+97070-106,1,17-Sep-03,Quote to Luca Esposito for Extended Warranty on Compusult Systems at Albany VA,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-106.doc
+97070-107,1,17-Sep-03,Quote to Tory Brust for Enhanced Services and Extended Warranties on Compusult Systems at Columbia VA,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-107.doc
+97070-108,1,06-Oct-03,"Installation Report: Assistive Technology for Alarm Panels at the Erie, Pennsylvania VA Medical Center",PTM,,97070 File,/cslt/docs/1997/97070/VA-Erie/reports/installation_report/body.book
+97070-109,1,31-Oct-03,Letter to Steve Pavelsky re: NEC telephone adaptation solutions for Salem and Kansas City VAs,PTM,,97070 File,/cslt/docs/1997/97070/
+97070-110,1,07-Jan-04,"Proposal: Assistive Technology for Alarm Panels at the Kansas City, Missouri VA Medical Center",PTM,,97070 File,/cslt/docs/1997/97070/VA-KansasCity/proposal/body.book
+97070-111,1,15-Jun-04,Letter to Rebecca Zohn re: Options for Repair/Replacement of Responder System at Albany VA,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-111.doc
+97070-112,1,20-Sep-04,Responder2 - System Guide,PTM/BP/KW/WE,,,/cslt/products/responder2/Guide/body.book
+97070-113,1,17-May-05,Letter to Rebecca Zohn re: Quote for Adaptation of Avaya 6416D+M phone at the Albany VA,PTM,,97070 File,/cslt/docs/1997/97070/letters/97070-113.doc
+97070-114,1,04-Oct-05,"Proposal: Assistive Technology for Alarm Panels at the Leavenworth, Kansas VA Medical Center",PTM,,97070 File,/cslt/docs/1997/97070/VA-Leavenworth/proposal/body.book
+97070-115,1,15-Feb-08,"Quotation to Kevin Sample of the Columbia, MO VA Medical Center for repalcement of all adaptive equipment for monitoring the alarm panels in the VA switchboard room",PTM,,97070 File,/cslt/docs/1997/97970/VA-Columbia/quotes/97070-115.doc

@@ -1,28 +1,28 @@
 package com.example.myproject.client;
 
-import com.example.myproject.shared.FieldVerifier;
-import com.google.gwt.user.client.ui.FileUpload;
-import com.google.gwt.user.client.ui.FormPanel;
-import com.google.gwt.user.client.ui.FormPanel.SubmitCompleteEvent;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
-import com.google.gwt.dom.client.Element;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
-import com.google.gwt.event.dom.client.KeyCodes;
-import com.google.gwt.event.dom.client.KeyUpEvent;
-import com.google.gwt.event.dom.client.KeyUpHandler;
 import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Button;
-import com.google.gwt.user.client.ui.DialogBox;
-import com.google.gwt.user.client.ui.HTML;
+import com.google.gwt.user.client.ui.FileUpload;
+import com.google.gwt.user.client.ui.FormPanel;
+import com.google.gwt.user.client.ui.HorizontalPanel;
+import com.google.gwt.user.client.ui.FormPanel.SubmitCompleteEvent;
 import com.google.gwt.user.client.ui.InlineHTML;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 import com.sun.org.apache.xalan.internal.xsltc.DOM;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.example.myproject.client.GreetingService;
+import com.example.myproject.client.GreetingServiceAsync;
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
@@ -34,69 +34,194 @@ public class SampleServer implements EntryPoint {
 	 */
 	private static final String SERVER_ERROR = "An error occurred while "
 			+ "attempting to contact the server. Please check your network " + "connection and try again.";
-
-	/**
-	 * Create a remote service proxy to talk to the server-side Greeting service.
-	 */
-	//private final GreetingServiceAsync greetingService = GWT.create(GreetingService.class);
-
+	
+	private ArrayList<String> msg = new ArrayList<String>();
+	private final DBQueryFormServiceAsync dbQueryFormService = GWT.create(DBQueryFormService.class);
+	private String[] receivedFields;
 	/**
 	 * This is the entry point method.
 	 */
+	
+	private void getInfoFromServer() {
+		AsyncCallback<List<String>> callback = new AsyncCallback<List<String>>() {
+			public void onSuccess(List<String> fields) {
+				//this is where the magic happens
+				receivedFields = fields;
+				System.out.println(fields);
+			}
+			@Override
+			public void onFailure(Throwable caught) {
+				// TODO Auto-generated method stub
+				System.out.println("Failed");
+			}
+		};
+		dbQueryFormService.getTable(callback);
+	}
+	
+	public VerticalPanel createTable() {
+		VerticalPanel p = new VerticalPanel();
+		for (int i = 0; i < receivedFields.length; i+=2) {
+			createRow(receivedFields.[i],receivedFields[i+1]);
+		}
+		return p;
+	}
+	
+	public VerticalPanel createRow(String label, String text) {
+		VerticalPanel row = new VerticalPanel();
+		HorizontalPanel l = new HorizontalPanel();
+		HorizontalPanel t = new HorizontalPanel();
+		Label labelElement = new Label(label);
+		TextBox textBoxElement = new TextBox();
+		textBoxElement.setText(text);
+		l.add(labelElement);
+		t.add(textBoxElement);
+		row.add(l);
+		row.add(t);
+		
+		return row;
+	}
+	
 	public void onModuleLoad() {
 		//get the formpanel for the upload file section ready
 		final VerticalPanel panel = new VerticalPanel();
-		final FormPanel form = new FormPanel();
-		form.setEncoding(FormPanel.ENCODING_MULTIPART);
-	    form.setMethod(FormPanel.METHOD_POST);
-	    form.setAction(GWT.getModuleBaseURL() + "greet");
+		final FormPanel formFileUpload = new FormPanel();
+		formFileUpload.setEncoding(FormPanel.ENCODING_MULTIPART);
+	    formFileUpload.setMethod(FormPanel.METHOD_POST);
+	    formFileUpload.setAction(GWT.getModuleBaseURL() + "greet");
 
 	    final VerticalPanel panel2 = new VerticalPanel();
-	    final FormPanel form2 = new FormPanel();
-	    form2.setEncoding(FormPanel.ENCODING_URLENCODED);
-	    form2.setMethod(FormPanel.METHOD_POST);
-	    form2.setAction(GWT.getModuleBaseURL() + "dataParser");
+	    final FormPanel formUploadToDatabase = new FormPanel();
+	    formUploadToDatabase.setEncoding(FormPanel.ENCODING_URLENCODED);
+	    formUploadToDatabase.setMethod(FormPanel.METHOD_POST);
+	    formUploadToDatabase.setAction(GWT.getModuleBaseURL() + "dataParser");
 	    
-	    Button sendButton = new Button("Send to Server", new ClickHandler() {
+	    final VerticalPanel panel3 = new VerticalPanel();
+		
+		final VerticalPanel panel4 = new VerticalPanel();
+		final FormPanel formTableData = new FormPanel();
+		formTableData.setEncoding(FormPanel.ENCODING_URLENCODED);
+		formTableData.setMethod(FormPanel.METHOD_POST);
+		formTableData.setAction(GWT.getModuleBaseURL() + "dataRetrieve");
+		
+		final VerticalPanel panel5 = new VerticalPanel();
+		
+	    Button sendButton = new Button("Confirm", new ClickHandler() {
 			  @Override
 		      public void onClick(ClickEvent event) {
-			        form.submit();
+			        formFileUpload.submit();
 			      }
 			    });
 	    
-		form.setWidget(panel);
-		form2.setWidget(panel2);
-		panel.add(sendButton);
-		
+	    getInfoFromServer();
+	    
+	    panel.add(new Button("Load Data From a Database:", new ClickHandler() {
+			  @Override
+		      public void onClick(ClickEvent event) {
+				  	String msg = "";
+				  	for (int i = 0; i < receivedFields.size(); i++) {
+				  		msg += receivedFields.get(i) + "," + receivedFields.get(i+1);
+				  	}
+				  	Window.alert(msg);
+				  	panel3.clear();
+				  	VerticalPanel table = createTable();
+				  	panel3.add(table);
+			      }
+			    }));
+	    
+		formFileUpload.setWidget(panel);
+		formUploadToDatabase.setWidget(panel2);
+		formTableData.setWidget(panel4);
+
 		//items for the first form field are set up from the start
 	    final FileUpload nameField = new FileUpload();
 		nameField.setName("file");
+		panel.add(new InlineHTML("<p><b>Please select a .csv file to load data from<br>or load data from a database.</b></p>"));
 		panel.add(nameField);
-
+		panel.add(sendButton);
+		panel.add(new InlineHTML("<br>"));
+		
+		
 		// Add the nameField and sendButton to the RootPanel
 		// Use RootPanel.get() to get the entire body element
-		RootPanel.get("FileUploadSpace").add(form);
-		RootPanel.get("HeadersDataTypes").add(form2);
+		RootPanel.get("FileUploadSpace").add(formFileUpload);
+		RootPanel.get("HeadersDataTypes").add(formUploadToDatabase);
+		RootPanel.get("DatabaseSelectForm").add(panel3);
+		RootPanel.get("DatabaseSelectForm").add(formTableData);
+		RootPanel.get("SelectedData").add(panel5);
 		
-		form.addSubmitCompleteHandler(new FormPanel.SubmitCompleteHandler() {
+		formFileUpload.addSubmitCompleteHandler(new FormPanel.SubmitCompleteHandler() {
 	        @Override
 	        public void onSubmitComplete(SubmitCompleteEvent event) {
-	          // When the form submission is successfully completed, this event is
-	          // fired. Assuming the service returned a response of type text/html,
-	          // we can get the result text here (see the FormPanel documentation for
-	          // further explanation).
-	        	//change to the exterior div to make work
 	        	panel2.clear();
 	    	    panel2.add(new InlineHTML(event.getResults()));
 	    	    //move this if possible
-	        	panel2.add(new Button("UploadDatabase", new ClickHandler() {
+	        	panel2.add(new Button("Upload to Database", new ClickHandler() {
 	  			  @Override
 	  		      public void onClick(ClickEvent event) {
-	  			        form2.submit();
+	  			        formUploadToDatabase.submit();
 	  			      }
 	  			    }));
 	        }
 	      });
+		//this is the final step of the upload sequence
+		formUploadToDatabase.addSubmitCompleteHandler(new FormPanel.SubmitCompleteHandler() {
+			@Override
+	        public void onSubmitComplete(SubmitCompleteEvent event) {
+	        	panel2.add(new InlineHTML(event.getResults()));
+	        	
+	        }
+	    });
+		
+//		formLoadFromDatabase.addSubmitCompleteHandler(new FormPanel.SubmitCompleteHandler() {
+//	        @Override
+//	        public void onSubmitComplete(SubmitCompleteEvent event) {
+//	        	panel3.clear();
+//	        	panel4.clear();
+//	        	panel3.add(new InlineHTML(event.getResults()));
+//	        	panel3.add(new Button("Load Available Tables", new ClickHandler() {
+//		  			  @Override
+//		  		      public void onClick(ClickEvent event) {
+//		  				  //clicking this button should get the tables from the db 
+//		  				  panel3.clear();
+//		  				  getInfoFromServer();
+//		  			      }
+//		  			    }));
+//	        }
+//	    });
+//		formGetTables.addSubmitCompleteHandler(new FormPanel.SubmitCompleteHandler() {
+//	        @Override
+//	        public void onSubmitComplete(SubmitCompleteEvent event) {
+//	        	panel4.clear();
+//	        	formGetTables.setWidget(panel3);
+//	        	panel4.add(new InlineHTML(event.getResults()));
+//	        	panel4.add(new Button("Query Database for Selected Table", new ClickHandler() {
+//		  			  @Override
+//		  		      public void onClick(ClickEvent event) {
+//		  				  //clicking this button should get the tables from the db 
+//		  				  formTableData.submit();
+//		  				  	//Window.alert("Button pushed, load data from db");
+//		  			      }
+//		  			    }));
+//	        }
+//	    });
+//		formTableData.addSubmitCompleteHandler(new FormPanel.SubmitCompleteHandler() {
+//	        @Override
+//	        public void onSubmitComplete(SubmitCompleteEvent event) {
+//	        	panel5.clear();
+//	        	formGetTables.setWidget(panel3);
+//	        	panel5.add(new InlineHTML(event.getResults()));
+//	        	/*panel5.add(new Button("Query Database for Selected Table", new ClickHandler() {
+//		  			  @Override
+//		  		      public void onClick(ClickEvent event) {
+//		  				  //clicking this button should get the tables from the db 
+//		  				  formTableData.submit();
+//		  				  	//Window.alert("Button pushed, load data from db");
+//		  			      }
+//		  			    }));
+//	        	 */
+//	        }
+//	    });
+		
 	}
 
 }
