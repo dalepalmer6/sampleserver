@@ -7,43 +7,33 @@
 
   <!-- Servlets -->
   <servlet>
-    <servlet-name>greetServlet</servlet-name>
-    <servlet-class>com.example.myproject.server.GreetingServiceImpl</servlet-class>
+    <servlet-name>fileReadServlet</servlet-name>
+    <servlet-class>com.example.myproject.server.FileReadingServiceImpl</servlet-class>
   </servlet>
   
   <servlet>
     <servlet-name>dataParser</servlet-name>
-    <servlet-class>com.example.myproject.server.DataParseService</servlet-class>
-  </servlet>
-  
-  <servlet>
-    <servlet-name>dbQueryForm</servlet-name>
-    <servlet-class>com.example.myproject.server.DBQueryFormServiceImpl</servlet-class>
+    <servlet-class>com.example.myproject.server.DataParseServiceImpl</servlet-class>
   </servlet>
   
   <servlet>
     <servlet-name>tableRetrieve</servlet-name>
-    <servlet-class>com.example.myproject.server.RetrieveTableNameService</servlet-class>
+    <servlet-class>com.example.myproject.server.RetrieveTableNameServiceImpl</servlet-class>
   </servlet>
   
   <servlet>
     <servlet-name>dataRetrieve</servlet-name>
-    <servlet-class>com.example.myproject.server.RetrieveDataService</servlet-class>
+    <servlet-class>com.example.myproject.server.DataRetrieveServiceImpl</servlet-class>
   </servlet>
   
   <servlet-mapping>
-    <servlet-name>greetServlet</servlet-name>
-    <url-pattern>/sampleserver/greet</url-pattern>
+    <servlet-name>fileReadServlet</servlet-name>
+    <url-pattern>/sampleserver/fileReadServlet</url-pattern>
   </servlet-mapping>
   
   <servlet-mapping>
  	 <servlet-name>dataParser</servlet-name>
     <url-pattern>/sampleserver/dataParser</url-pattern>
-  </servlet-mapping>
-  
-  <servlet-mapping>
- 	 <servlet-name>dbQueryForm</servlet-name>
-    <url-pattern>/sampleserver/dbQueryForm</url-pattern>
   </servlet-mapping>
   
    <servlet-mapping>

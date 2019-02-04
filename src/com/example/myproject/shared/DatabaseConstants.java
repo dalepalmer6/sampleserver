@@ -17,16 +17,12 @@ public class DatabaseConstants {
 		System.out.println(databaseType + host + database);
 		switch (databaseType) {
 			case "Oracle": 	JDBC_URL = "jdbc:oracle:thin:@" + host + ":1521:" + database;
-							//"jdbc:oracle:thin:@oracle11:1521/devel11.compusult.net"
-							//"jdbc:oracle:thin:@devel11.compusult.net:1521:dale"
 							Class.forName("oracle.jdbc.driver.OracleDriver");
 							break;
 			case "Postgres":JDBC_URL = "jdbc:postgresql_postGIS://" + host + ":5432/" + database;
-							//jdbc:postgresql_postGIS://pg1-devel.compusult.net:5432/dale
 							Class.forName("org.postgis.DriverWrapper");
 							break;
 			case "SQL": 	JDBC_URL = "jdbc:sqlserver://" + host + ":1433;databaseName=" + database;
-			//				jdbc:sqlserver://sql2012-devel.compusult.net:1433;databaseName=<Database>
 							Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
 							break;
 			default:		JDBC_URL = "";
